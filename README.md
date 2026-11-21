@@ -125,6 +125,14 @@ AI does not independently define Veriq's architecture, make its engineering deci
 
 The goal is to use AI as an engineering aid while maintaining human ownership, technical accountability, and control over the codebase.
 
+### A Friendly Warning
+
+> Veriq is primarily human-engineered. A lot of the scaffolding and code was written manually, which means there might be some questionable design decisions, spaghetti code, and questionable life choices hidden somewhere in the codebase.
+>
+> AI helps fix the bugs, but unfortunately, it cannot fix the developer.
+>
+> **Use at your own risk. We are fixing things as we go.**
+
 ## Getting Started
 
 Veriq is under active development. Installation and configuration instructions will be maintained alongside the project as the public release is prepared.
