@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="brand/veriq_nonbg.png" alt="Veriq Logo" width="240">
+  <img src="brand/vector.png" alt="Veriq Logo" width="240">
 </p>
 
 <h1 align="center">Veriq</h1>
