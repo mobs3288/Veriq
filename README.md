@@ -1,4 +1,6 @@
- <p align="center">
+# Veriq
+
+<p align="center">
   <img src="brand/vector_logo.png" alt="Veriq Logo" width="120">
 </p>
 
@@ -21,9 +23,11 @@
 
 ## Overview
 
-Veriq is a Quality Engineering platform designed to bring software testing, test automation, and quality assurance workflows together in one place.
+Veriq is an open-source Quality Engineering platform and an alternative to proprietary testing solutions such as Katalon. It is designed to bring software testing, test automation, and quality assurance workflows together in one integrated environment.
 
-It aims to help development and QA teams build, execute, manage, and monitor software tests through an integrated and extensible testing environment.
+Veriq aims to help development and QA teams build, execute, manage, and monitor software tests through a flexible and extensible testing platform.
+
+Rather than relying on a closed proprietary ecosystem, Veriq emphasizes developer control, customizable automation, and the ability to integrate different testing technologies into a unified workflow.
 
 Whether you're working with web applications, APIs, mobile applications, or performance testing, Veriq provides a unified foundation for managing software quality.
 
@@ -109,6 +113,18 @@ The platform is designed around several functional areas:
 
 The architecture can evolve as Veriq grows and gains additional capabilities.
 
+## Development Approach
+
+Veriq is primarily designed and engineered by a human developer. Its core architecture, system design, project scaffolding, technical decisions, and implementation direction are human-driven.
+
+AI tools are used selectively as development assistants, primarily for debugging, troubleshooting, bug fixing, code review, and improving development efficiency.
+
+AI-generated suggestions and code changes are reviewed, evaluated, and validated by the developer before being incorporated into the project.
+
+AI does not independently define Veriq's architecture, make its engineering decisions, or drive its overall development direction.
+
+The goal is to use AI as an engineering aid while maintaining human ownership, technical accountability, and control over the codebase.
+
 ## Getting Started
 
 Veriq is under active development. Installation and configuration instructions will be maintained alongside the project as the public release is prepared.
@@ -155,7 +171,7 @@ The directory structure may evolve as the project is prepared for public develop
 
 ## Project Status
 
-<em>Active development</em>
+*Active development*
 
 Veriq is being developed as an open-source project. Its architecture and capabilities are evolving as existing functionality is reviewed, separated from its original environment, and prepared for broader use.
 
