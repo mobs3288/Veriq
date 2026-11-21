@@ -155,6 +155,8 @@ The directory structure may evolve as the project is prepared for public develop
 
 Veriq is being developed as an open-source project. Its architecture and capabilities are evolving as existing functionality is reviewed, separated from its original environment, and prepared for broader use.
 
+Veriq has been in private development since December 2025 and is currently in the finishing stages. The first stable release, v1.0.0, is expected as early as Q1 2027.
+
 Planned areas of improvement include:
 
 - Simplifying installation and deployment.
