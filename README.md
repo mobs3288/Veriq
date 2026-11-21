@@ -29,6 +29,8 @@ Whether you're working with web applications, APIs, mobile applications, or perf
 
 Veriq has been in private development since December 2025 and is currently in the finishing stages. The first stable release, v1.0.0, is expected as early as Q1 2027.
 
+Veriq is entirely web-based and can be installed locally or hosted on a VPS.
+
 ## Key Features
 
 Veriq brings together several areas of software quality engineering.
