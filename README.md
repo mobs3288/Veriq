@@ -27,6 +27,8 @@ It aims to help development and QA teams build, execute, manage, and monitor sof
 
 Whether you're working with web applications, APIs, mobile applications, or performance testing, Veriq provides a unified foundation for managing software quality.
 
+Veriq has been in private development since December 2025 and is currently in the finishing stages. The first stable release, v1.0.0, is expected as early as Q1 2027.
+
 ## Key Features
 
 Veriq brings together several areas of software quality engineering.
